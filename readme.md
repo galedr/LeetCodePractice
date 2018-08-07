@@ -10,4 +10,4 @@ answer.xxx 為最後submit 到leetcode 的檔案 <br>
 標題紀錄 Tag : <br>
 Easy : <br>
 'Linked List' : <br>
-237 | 876 | 206 | 21
+237 | 876 | 206 | 21 | 83
