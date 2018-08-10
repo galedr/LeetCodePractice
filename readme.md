@@ -5,8 +5,3 @@ answer.xxx 為最後submit 到leetcode 的檔案 <br>
   造成practice與answer內容不同，敬請包涵<br>
 * practice 端與answer 端差異處可能未修正，<br>因為answer 端還會再leetcode playground上測試，故差異處可能較大，請勿見笑
 * 有不足或很多不足之處請多多指教
-
-標題紀錄 Tag : <br>
-Easy : <br>
-'Linked List' : <br>
-237 | 876 | 206 | 21 | 83 | 141 | 203
