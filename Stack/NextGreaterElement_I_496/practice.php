@@ -1,5 +1,4 @@
 <?php
-
 class NextGreaterElement_1
 {
     public function response($arr1, $arr2)
