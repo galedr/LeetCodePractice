@@ -147,6 +147,7 @@ $arr = [2,3,4,5,6];
 $create = new LinkedListBuilder();
 $list = $create->createList($arr);
 $method = new DesignLinkedList($list);
+$method->printAll($list); exit;
 $get = $method->getElement(2);
 $addHead = $method->addHead(1);
 $addTail = $method->addTail(7);
